@@ -22,6 +22,6 @@
     "request-promise": "^4.2.5"
   },
   "follow-redirects": {
-    "version": "1.15.0"
+    "version":"1.15.0"
   }
 }
