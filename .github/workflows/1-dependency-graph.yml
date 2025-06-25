@@ -15,7 +15,7 @@ permissions:
 env:
   STEP_2_FILE: ".github/steps/2-dependabot-alerts.md"
   FOLLOW_REDIRECTS_FILE: "code/src/AttendeeSite/package-lock.json"
-  FOLLOW_REDIRECTS_KEYPHRASE: "1\\.14\\.1"
+  FOLLOW_REDIRECTS_KEYPHRASE: "1\\.15\\.0"
 
 jobs:
   find_exercise:
